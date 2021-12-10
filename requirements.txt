@@ -1,0 +1,6 @@
+###### Requirements with Version Specifiers ######
+django == 3.2.8
+urllib3 == 1.26.7
+virtualenv == 20.8.1
+virtualenv-clone == 0.5.7
+virtualenvwrapper == 4.8.4
