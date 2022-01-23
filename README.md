@@ -1,1 +1,1 @@
-This is git repo for travello site.
+**This is my first project on Django
